@@ -1,0 +1,19 @@
+package arithmeticOperations;
+import java.util.Scanner;
+
+public class Average {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+           int sum=0;
+           System.out.println("Enter 5 integers");
+           for (int i=0;i<5;i++)
+           {
+        	   int num=scan.nextInt();
+        	   sum+=num;
+           }
+           double avg=(double)sum/5;
+           System.out.println("Average:"+avg);
+	}
+
+}

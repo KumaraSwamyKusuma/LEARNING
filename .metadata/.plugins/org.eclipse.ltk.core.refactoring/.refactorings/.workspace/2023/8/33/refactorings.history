@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;logicalOperatorValidator&apos; to &apos;validator&apos;" description="Rename resource &apos;logicalOperatorValidator&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/logicalOperatorValidator" name="validator" stamp="1692357683579" updateReferences="true"/>
+</session>
